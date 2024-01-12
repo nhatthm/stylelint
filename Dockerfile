@@ -1,4 +1,4 @@
-FROM exelban/baseimage:node-latest
+FROM node:18-alpine
 
 COPY LICENSE README.md /
 
